@@ -194,10 +194,10 @@
 	.main{
 	    overflow: hidden;
 	    position: relative;
-	    display: flex;
+	    
 	    top:20%;
 	    border-radius: 20px;
-	    margin: 0 auto;
+	    
 	    width: 90%;
 	    height: 400px;
 	    background-image:url('../img/pic.png');
