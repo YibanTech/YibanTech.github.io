@@ -71,7 +71,8 @@
     overflow: hidden;
     position: relative;
     display: flex;
-    top:20%;
+	
+    top:8em;
     border-radius: 20px;
     margin: 0 auto;
     width: 60%;
